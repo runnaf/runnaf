@@ -1,5 +1,5 @@
 # Hi there, I'm Irina 👋
-### Web developer from Zvenigorid, RU
+### Web developer from Zvenigorod, RU
 
 - I’m currently working on React/TypeScript
 - I’m currently studying on Flutter/Dart
