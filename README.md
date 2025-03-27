@@ -1,13 +1,11 @@
-# Hi there, I'm Tamara 👋
-### Web developer from Izhevsk, RU
+# Hi there, I'm Irina 👋
+### Web developer from Zvenigorid, RU
 
 - I’m currently working on React/TypeScript
 - I’m currently studying on Flutter/Dart
 
 ### Project
 - Digital Agency [AL TECH LABS ](https://altech.digital)
-- Interior Designer [Olesya Martin](https://olesya-martin.netlify.app/)
-- Mortgage Adviser [Rinata Ahmetshina](https://mortage-cz.netlify.app/)
 - Cattery Savannah [SAVANNAH WORLD](https://ts-savannah-world.netlify.app/)
 
 ## Skills and Experience: 
@@ -20,7 +18,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 #### CSS frameworks:
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
